@@ -1,0 +1,51 @@
+.container
+{
+    border: 2px solid gray;
+    border-radius: 5px;
+    width: 350px;
+    margin: 10px auto;
+}
+
+.create
+{
+    text-align: center;
+    
+}
+.name
+{
+    width:155px;
+    height: 20px;
+    margin: 5px;
+}
+.ph
+{
+    width: 330px;
+    margin: 5px;
+    height: 25px;
+}
+.date
+{
+    margin-left: 5px;
+}
+.date1
+{
+    margin-left: 5px;
+    border: 1px solid gray;
+    width: 110px;
+    height: 30px;
+    font-size: 15px;
+}
+.text p
+{
+font-size: 10px;
+}
+#btn
+{
+    
+    color: white;
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: darkgreen;
+}
+
